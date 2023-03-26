@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css2?family=Josefin+Sans:wght@300&family=Patrick+Hand&family=Philosopher&display=swap');
+body{
+    font-family: 'Philosopher', sans-serif;
+}
+.primary-bg{
+    background-color: #607d8b !important;
+}
+.bold{
+    font-weight: bolder;
+}
+.style-3D {
+    border: 2px solid black;
+    margin: 0px 10px;
+    padding: 1rem;
+    box-shadow: 5px 5px 7px 3px rgb(58, 58, 58);
+}
